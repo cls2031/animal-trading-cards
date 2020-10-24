@@ -1,0 +1,43 @@
+body {
+  font-weight: normal;
+  color: black;
+}
+p {
+  font-weight: normal;
+  color: black;
+ }
+h3 {
+  font-weight: bold;
+  color: black;
+}
+em {
+  font-weight: normal;
+  color: black;
+  font-style: italic;
+}
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+.container{
+  width: 300px;
+  border: 1px solid lightgray;
+  box-shadow: 5px 5px green;
+  padding-left: 10px;
+  padding-right: 10px;
+  display: flex;
+  flex-wrap: wrap;
+}
+.box{
+  width: 300px;
+  border: 1px solid lightgray;
+  padding: 10px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+span.list{
+  font-weight: bold;
+}
+img{
+  width: 300px;
+}
